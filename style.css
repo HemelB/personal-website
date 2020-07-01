@@ -1,0 +1,112 @@
+body{
+    font-family:'Roboto', sans-serif;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.headtitle{
+    color: deeppink;
+    font-size: 36px;
+    font-weight:bold;
+}
+.top{
+    height: 480px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size:870px;
+}
+#textgroup1{
+    
+    margin-top: 70px;
+    margin-left: 40px;
+}
+.first{
+    width: 35%;
+    float: left;
+}
+.first img{
+    width: 100%;
+    padding-left: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: deeppink;
+    background-image: linear-gradient(45deg, deeppink, rgb(248, 70, 100));
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 550;
+}
+.second img{ 
+    width: 100%;
+    padding-left: 200px;
+}
+.middle{
+    height: 500px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+#textgroup2{   
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.bottom{
+    height: 500px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+}
+.worktitle{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.portfolio{
+    float:left;
+    padding-left: 30px;
+    padding-right:0px;
+    padding-bottom: 100px;
+  }
+  .bottom-lower{
+    height: 600px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+  }
+  .testimonial{
+      text-align: center;
+      margin:50px;
+  }
+  #client{
+      font-size: 13px;
+  }
+  .comment{
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    width: 600px;
+    height: 150;
+    margin: 0 auto;
+    padding-bottom: 30px;
+  }
+  .email{
+    text-align: center;
+    width: 550px;
+    height: 150px;
+    background-color: deeppink;
+    border-radius: 10px;
+    background-position: center;
+    margin:0 auto;
+    padding-top: 30px;
+    color: white;
+    background-image: linear-gradient(45deg, rgb(252, 50, 84), deeppink);
+  }
+  #contact{
+      font-size: 22px;
+  }
+  footer{
+      text-align: center;
+      font-size: 13px;
+  }
+
+  
